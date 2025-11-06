@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Juliano Amaro 👋
 
-- 🔭 Estou cursando o 3º ano do ensino médio com o curso técnico de "Desenvolvimento de Sistemas
+- 🔭 Estou cursando o 3º ano do ensino médio com o curso técnico de "Desenvolvimento de Sistemas"
 - 🌱 Atualmente estou estudando React Native e Typescript
 - 📫 Acesse também meu linkedin: https://www.linkedin.com/in/juliano-amaro-6b28052a9/
 
