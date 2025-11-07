@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=8111F7&width=600&height=70&duration=7000&lines=Olá!+👋;+Me+chamo+Juliano+Corrêa+Amaro!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=0053F7&width=600&height=70&duration=7000&lines=Olá!+👋;+Me+chamo+Juliano+Corrêa+Amaro!;" />
 </h1>
 
 - 🔭 Estou cursando o 3º ano do ensino médio com o curso técnico de "Desenvolvimento de Sistemas" no SENAI
@@ -10,8 +10,8 @@
 <br>
 <div align="center">
   <a href"https://github.com/juliano-amaro">
-  <img height="150vh" src="https://github-readme-stats.vercel.app/api?username=juliano-amaro&show_icons=true&theme=radical"/>
-  <img height="150vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliano-amaro&layout=compact&theme=radical"/>
+  <img height="150vh" src="https://github-readme-stats.vercel.app/api?username=juliano-amaro&show_icons=true&theme=tokyonight"/>
+  <img height="150vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliano-amaro&layout=compact&theme=tokyonight"/>
 </div>
 
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
@@ -30,7 +30,7 @@
 </div>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&color=8111F7&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&color=0053F7&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />
 </h1>
 
 <div align="center"> 
