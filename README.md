@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=8111F7&width=600&height=70&duration=7000&lines=Olá!+👋;+Me+chamo+Juliano+Corrêa+Amaro!;" />
 </h1>
 
-- 🔭 Estou cursando o 3º ano do ensino médio com o curso técnico de "Desenvolvimento de Sistemas"
+- 🔭 Estou cursando o 3º ano do ensino médio com o curso técnico de "Desenvolvimento de Sistemas" no SENAI
 - 🌱 Atualmente estou estudando React Native e Typescript
 - 📫 Acesse também meu linkedin: https://www.linkedin.com/in/juliano-amaro-6b28052a9/
 
