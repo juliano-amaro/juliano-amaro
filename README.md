@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=8111F7&width=600&height=70&duration=7000&lines=olá!+👋;+Me+chamo+Juliano+Corrêa+Amaro!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=8111F7&width=600&height=70&duration=7000&lines=Olá!+👋;+Me+chamo+Juliano+Corrêa+Amaro!;" />
 </h1>
 
 - 🔭 Estou cursando o 3º ano do ensino médio com o curso técnico de "Desenvolvimento de Sistemas"
