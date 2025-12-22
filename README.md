@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=0053F7&width=600&height=70&duration=7000&lines=Olá!+👋;+Me+chamo+Juliano+Corrêa+Amaro!;" />
 </h1>
 
-- 🔭 Estou atualmente formado em busca de um emprego!
+- 🔭 Estou atualmente formado em busca de um emprego de desenvolvedor ou na área!
 - 🌱 Atualmente estou estudando React Native e Typescript
 - 📫 Acesse também meu linkedin: https://www.linkedin.com/in/juliano-amaro-6b28052a9/
 
